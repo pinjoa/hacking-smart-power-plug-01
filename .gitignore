@@ -1,0 +1,4 @@
+*.bak
+*.7z
+*.code-workspace
+.vscode
